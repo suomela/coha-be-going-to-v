@@ -2,7 +2,7 @@
 
 This repository contains the data file that was used in the following study:
 
-> Säily, Tanja, Florent Perek & Jukka Suomela. Forthcoming 2025. Variation and change in the productivity of BE _going to_ V in the _Corpus of Historical American English_, 1810–2009. _English Language and Linguistics_. Special issue, _Constructional approaches to creativity and productivity in English_, ed. by Tanja Säily & Turo Vartiainen.
+> Säily, Tanja, Florent Perek & Jukka Suomela. 2025. Variation and change in the productivity of BE _going to_ V in the _Corpus of Historical American English_, 1810–2009. _English Language and Linguistics_ 29(2). Special issue, _Constructional approaches to creativity and productivity in English_, ed. by Tanja Säily & Turo Vartiainen. [doi:10.1017/S136067432500022X](https://doi.org/10.1017/S136067432500022X)
 
 The data file is complete except that the gender metadata is missing, as we do not have permission to release this part of the data set. For gender metadata produced using a different method, see [COHA metadata enriched with LLMs](https://github.com/suomela/coha-gpt-enriched-metadata).
 
