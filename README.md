@@ -2,7 +2,7 @@
 
 This repository contains the data file that was used in the following study:
 
-> Säily, Tanja, Florent Perek & Jukka Suomela. 2025. Variation and change in the productivity of BE _going to_ V in the _Corpus of Historical American English_, 1810–2009. _English Language and Linguistics_ 29(2). Special issue, _Constructional approaches to creativity and productivity in English_, ed. by Tanja Säily & Turo Vartiainen. [doi:10.1017/S136067432500022X](https://doi.org/10.1017/S136067432500022X)
+> Säily, Tanja, Florent Perek & Jukka Suomela. 2025. Variation and change in the productivity of BE _going to_ V in the _Corpus of Historical American English_, 1810–2009. _English Language and Linguistics_ 29(2): 362–388. Special issue, _Constructional approaches to creativity and productivity in English_, ed. by Tanja Säily & Turo Vartiainen. [doi:10.1017/S136067432500022X](https://doi.org/10.1017/S136067432500022X)
 
 The basic metadata comes from the ‘sources’ file in the database form of the first version of COHA (Davies 2010–). We combined the metadata from the database with fiction-specific genre metadata provided in the ‘cohaTexts.xls’ file downloaded from the [English-Corpora.org](https://www.english-corpora.org) site, as well as with the gender metadata produced by Öhman et al. (2019). Our processes of metadata cleanup and querying the corpus are described in the paper.
 
